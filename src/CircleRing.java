@@ -4,6 +4,8 @@
  *    Level 0
  */
 
+import javax.swing.JOptionPane;
+
 import org.jointheleague.graphical.robot.Robot;
 
 public class CircleRing {
@@ -40,3 +42,5 @@ public class CircleRing {
 		// 11. Turn the robot 1 degree
 	}
 }
+
+
